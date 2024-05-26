@@ -11,3 +11,22 @@ nav{
 h1,li,ul{
   display: inline;
 }
+ul{
+  margin-left: 60%;
+  }
+li{
+  color: grey;
+  cursor: pointer;
+}
+li:hover{
+  color:white;
+}
+input{
+  width:60%;
+  padding:15px;
+}
+.searchbar{
+    padding: 50px;
+    text-align: center;
+}
+
